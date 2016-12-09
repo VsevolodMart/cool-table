@@ -1,0 +1,35 @@
+{
+  "name": "test_task2",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "~1.15.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "del": "^2.2.2",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^2.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-pug": "^3.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp.spritesmith": "^6.2.1",
+    "imagemin-pngquant": "^5.0.0",
+    "jade": "^1.11.0",
+    "morgan": "~1.7.0",
+    "nodemon": "^1.11.0",
+    "pug": "^2.0.0-beta6",
+    "serve-favicon": "~2.3.0",
+    "vinyl-buffer": "^1.0.0"
+  }
+}
